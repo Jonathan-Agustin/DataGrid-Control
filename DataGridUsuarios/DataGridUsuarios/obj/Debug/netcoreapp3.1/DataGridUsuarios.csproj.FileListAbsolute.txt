@@ -18,3 +18,4 @@ C:\Users\jonathan\source\repos\DataGridUsuarios\DataGridUsuarios\obj\Debug\netco
 C:\Users\jonathan\source\repos\DataGridUsuarios\DataGridUsuarios\obj\Debug\netcoreapp3.1\DataGridUsuarios.dll
 C:\Users\jonathan\source\repos\DataGridUsuarios\DataGridUsuarios\obj\Debug\netcoreapp3.1\DataGridUsuarios.pdb
 C:\Users\jonathan\source\repos\DataGridUsuarios\DataGridUsuarios\obj\Debug\netcoreapp3.1\DataGridUsuarios.genruntimeconfig.cache
+C:\Users\jonathan\source\repos\DataGridUsuarios\DataGridUsuarios\obj\Debug\netcoreapp3.1\Window1.g.cs
